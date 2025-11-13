@@ -125,7 +125,7 @@ button#showmore{
     }
     .contentOne, .contentTwo{
         position: relative;
-        width: 70%;
+        width: 80%;
         height: auto;
         opacity: 1!important;
         text-align: center;
